@@ -1,0 +1,113 @@
+{
+"data": [
+{
+"id": 23,
+"name": "Private Courses for Programming",
+"info": "online courses about any programming language basics, and mobile programming with flutter, web development with laravel.",
+"image": "http://osamastartup.osamamy-class.com/storage/images/services/1653976149.images.jpg",
+"price": "300$ - 800$",
+"owner": "admin",
+"time": "5 months ago"
+},
+{
+"id": 22,
+"name": "Web Application with Laravel",
+"info": "create a responsive web applications using Laravel Framework",
+"image": "http://osamastartup.osamamy-class.com/storage/images/services/1653913420.download.jpg",
+"price": "500 - 1000 $",
+"owner": "admin",
+"time": "5 months ago"
+},
+{
+"id": 21,
+"name": "Format Computers and Install a programs",
+"info": "Format Computers and Install a programs",
+"image": "http://osamastartup.osamamy-class.com/storage/images/services/1640358601.format.jpg",
+"price": "10$",
+"owner": "Osama Al-atraqchi",
+"time": "10 months ago"
+},
+{
+"id": 20,
+"name": "Consulting and solving software problems",
+"info": "Consulting and solving software problems for students, researchers and companies",
+"image": "http://osamastartup.osamamy-class.com/storage/images/services/1640358371.consoltant.jpg",
+"price": "From 20$ To 500$",
+"owner": "Osama Al-atraqchi",
+"time": "10 months ago"
+},
+{
+"id": 19,
+"name": "Presentations",
+"info": "create a presentations using PowerPoint, Prezi and Google Slide",
+"image": "http://osamastartup.osamamy-class.com/storage/images/services/1640358100.presentations.jpg",
+"price": "From 10$ To 50$",
+"owner": "Osama Al-atraqchi",
+"time": "10 months ago"
+},
+{
+"id": 18,
+"name": "Create CVs and Resume",
+"info": "Create a Cvs and Resumes with a beautiful designs",
+"image": "http://osamastartup.osamamy-class.com/storage/images/services/1640357677.Creative Resume Format3.jpg",
+"price": "From 5$ To 10$",
+"owner": "Osama Al-atraqchi",
+"time": "10 months ago"
+},
+{
+"id": 17,
+"name": "Edit the Researches",
+"info": "edit and improve any types of researches using word, and Mendeley",
+"image": "http://osamastartup.osamamy-class.com/storage/images/services/1640357527.research.jpg",
+"price": "From 10$ To 100$",
+"owner": "Osama Al-atraqchi",
+"time": "10 months ago"
+},
+{
+"id": 16,
+"name": "Mobile Applications",
+"info": "Build a Cross-Platform Mobile Applications works on Android and IOS",
+"image": "http://osamastartup.osamamy-class.com/storage/images/services/1640357342.flutter.jpeg",
+"price": "From 100$ To 1000$",
+"owner": "Osama Al-atraqchi",
+"time": "10 months ago"
+}
+],
+"links": {
+"first": "http://osamastartup.osamamy-class.com/api/services?page=1",
+"last": "http://osamastartup.osamamy-class.com/api/services?page=2",
+"prev": null,
+"next": "http://osamastartup.osamamy-class.com/api/services?page=2"
+},
+"meta": {
+"current_page": 1,
+"from": 1,
+"last_page": 2,
+"links": [
+{
+"url": null,
+"label": "&laquo; Previous",
+"active": false
+},
+{
+"url": "http://osamastartup.osamamy-class.com/api/services?page=1",
+"label": "1",
+"active": true
+},
+{
+"url": "http://osamastartup.osamamy-class.com/api/services?page=2",
+"label": "2",
+"active": false
+},
+{
+"url": "http://osamastartup.osamamy-class.com/api/services?page=2",
+"label": "Next &raquo;",
+"active": false
+}
+],
+"path": "http://osamastartup.osamamy-class.com/api/services",
+"per_page": 8,
+"to": 8,
+"total": 9
+}
+}
